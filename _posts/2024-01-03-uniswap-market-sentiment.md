@@ -11,7 +11,7 @@ keywords: Uniswap, Dune, bullish, bearish, Market Sentiment
 usemathjax: false
 permalink: /blog/uniswap-market-sentiment/
 ---
-### NOTE
+**NOTE**
 This article has only an analysis and research aspect and the simulated indicators are based only on data and formulas. Make a decision in your own investment and be careful!
 
 ## I. Introduction
