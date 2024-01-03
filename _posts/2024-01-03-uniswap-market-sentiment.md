@@ -74,6 +74,7 @@ It shows the decrease in the volume of trades in Uniswap, which is a bearish sig
 
 ## V. OBV
 On-Balance Volume (OBV) measures buying and selling pressure in the market. The OBV is calculated by adding the volume of an asset to the OBV when the price of the asset increases and subtracting the volume when the price of the asset decreases.
+
 **Formula for On-Balance Volume (OBV)**
 <img src="https://github.com/AmirGhMohseni/amirghmohseni.github.io/blob/master/assets/img/posts/obv-formula.jpg" />
 
