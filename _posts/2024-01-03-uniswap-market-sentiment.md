@@ -77,7 +77,7 @@ It shows the decrease in the volume of trades in Uniswap, which is a bearish sig
 On-Balance Volume (OBV) measures buying and selling pressure in the market. The OBV is calculated by adding the volume of an asset to the OBV when the price of the asset increases and subtracting the volume when the price of the asset decreases.
 
 **Formula for On-Balance Volume (OBV)**
-<img src="../assets/img/posts/obv-formula.jpg" />
+<img src="/assets/img/posts/obv-formula.jpg" />
 
 ### What Does OBV Tell You?
 The On-Balance Volume (OBV) theory centers on differentiating institutional investors (smart money) from retail investors. When mutual funds and pension funds buy an asset retail investors are selling, volume increases even as the price stays steady, eventually driving it upward. The actual numerical value of OBV is insignificant, as it's cumulative and dependent on the start date. Traders focus on OBV movements over time, with the slope of the line carrying the weight of analysis. Analysts use OBV volume to track institutional investors, identifying divergences between volume and price as indicators of the relationship between smart money and the broader market, revealing opportunities to counter prevailing trends.
