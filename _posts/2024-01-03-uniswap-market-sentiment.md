@@ -30,27 +30,20 @@ Behold the intricate tapestry unfurling below, a visual sonnet portraying the es
 
 <iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="350" />
 
-The chart, an ever-evolving palimpsest meticulously updated on a weekly cadence, intricately maps the ebb and flow of LP creations. A symphony of statistical nuances, a temporal ballet where the most dominant protagonist is none other than the Ethereum network. Witness the undulating crescendo of LPs birthed into existence, their genesis intertwined with the very fabric of time.
+The chart unfolds as an ever-evolving manuscript, meticulously updated weekly, intricately capturing the rhythmic dance of LP creations. Ethereum emerges as the central protagonist in this statistical ballet, witnessing a crescendo of LPs birthing into existence, their genesis interwoven with the fabric of time. The audacious Polygan network asserts its presence, claiming a substantial portion of the LP landscape, yet Ethereum stands as an indomitable sovereign, towering over its blockchain counterparts.
 
-The Polygan network, an audacious entrant into this cryptographic amphitheater, commands attention, usurping a formidable slice of the LP pie. Yet, amidst the numerical tussle, the Ethereum network stands as the indomitable sovereign, a colossus of popularity towering over its blockchain compatriots.
-
-The diagram morphs into a tableau of delineated percentages, a cosmic ballet where each network, be it a recent interloper or an established denizen, claims its share of the coveted LP realm. Ethereum, with its regal resilience, maintains its reign at the apical zenith, orchestrating an unparalleled symphony of LP ascendancy.
-
-In the grand narrative of LP proliferation, each network pens its own chapter, etching its numerical legacy onto the palimpsest of Uniswap history. The Ethereum network, an enduring protagonist, not only retains its prominence but ascends to the pinnacle, a testament to its unwavering allure amidst the ceaseless flux of blockchain dynamics.
+The diagram transforms into a cosmic ballet of percentages, each network—whether a recent entrant or an established denizen—staking its claim in the coveted LP realm. Ethereum, resilient and regal, maintains its apical zenith, orchestrating an unparalleled symphony of LP ascendancy. In the grand narrative of LP proliferation, each network inscribes its numerical legacy onto the Uniswap palimpsest. Ethereum, an enduring protagonist, not only retains but ascends to the pinnacle, a testament to its unwavering allure amidst the perpetual ebb and flow of blockchain dynamics.
 
 ### D. ETH price with number of LPs over time on Uniswap
-Embark upon a temporal odyssey, traversing the enigmatic realms of Ethereum price dynamics, as we navigate the cryptic landscape from January 2021 to the halcyon days of July 2022. Within this epoch, the conditions enveloping ETH prices exuded a benevolent aura, propelling the creation of liquidity pools (LPs) into a fluctuating dance, oscillating between the esoteric realms of 160 and a staggering 1894 per week. A symphony of bullish fervor echoed through the corridors of the crypto cosmos, beckoning investors to partake in the kaleidoscopic mélange of trading and investment opportunities across diverse sectors.
-
-Yet, as the cryptic clock hands marched into the month of July 2022, a clandestine metamorphosis gripped the market's essence, veiling it in a shroud of decline and stagnation. A paradox unfurled — an anomalous surge in the creation of Uniswap LPs amidst the somber whispers of a market in retreat.
-
-The chronicle crescendos to a zenith in the fateful week of 05-15-2023, where the number of LPs, like a phoenix rising from the ashes, soared to an unprecedented ATH of 5392. An enigma within an enigma, as if the very decline in market fortunes cast a spell, birthing a surge in liquidity creation that defied the gravitational pull of market pessimism.
-
-A cryptic subplot unfolds with the recent ascent in Bitcoin's price, an event mirroring the ascent of ETH. This ethereal correlation, akin to a cosmic ballet, orchestrates a subtle reduction in the number of LPs, an intricate dance where the movements of Bitcoin and Ethereum intertwine, impacting the very fabric of liquidity creation. A tableau unfolds, inviting scrutiny into the pages of December 2023, where the intricate web of price dynamics continues to script its esoteric narrative, challenging preconceived notions and confounding the seekers of market augury.
+Embark on a mystifying journey through Ethereum's price evolution from January 2021 to July 2022, witnessing the fluctuating dance of liquidity pool creation, ranging from 160 to a staggering 1894 per week. A symphony of bullish enthusiasm echoes, inviting investors into a diverse array of opportunities. However, July 2022 introduces a clandestine metamorphosis, a paradoxical surge in Uniswap LP creation amidst a market in retreat. The zenith occurs in the week of 05-15-2023, where LPs reach an unprecedented ATH of 5392, defying market pessimism. A cryptic subplot unfolds with Bitcoin's ascent mirroring Ethereum, orchestrating a subtle reduction in LPs, impacting the fabric of liquidity creation. December 2023's pages hold the continuation of this esoteric narrative, challenging norms and perplexing market seekers.
 
 <iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350" />
 
-## III. BTC_BUY_SELL
-BTC Buy & Sell
+## III. Bitcoin buying/selling power in Uniswap and its dependence on Volume
+In this review, we calculated the volume of sales and purchase volume of Bitcoin in Uniswap and calculated the power of buying and selling on a monthly basis with this method.
+In the month when the number is negative, it means that the selling power of Bitcoin is more than buying, and in the month when the number is positive, it means that the buying power of Bitcoin is more than selling.
+In the last few months, we have seen an increase in the purchasing power of Bitcoin on Uniswap. We have calculated the buying/selling power cumulatively (the line that can be seen in the graph) and we have seen an increase in the purchasing power of Bitcoin since the 6th month of 2023.
+
 <iframe src="https://dune.com/embeds/3321048/5562148" width="100%" height="350" />
 
 
