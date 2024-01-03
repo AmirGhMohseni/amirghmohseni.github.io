@@ -12,7 +12,7 @@ usemathjax: false
 permalink: /blog/uniswap-market-sentiment/
 ---
 ## I. Introduction
-Intro is here
+Introduction is here
 
 ## II. Uniswap_Pools
 Uniswap LPs
@@ -37,3 +37,4 @@ OBV section
 
 
 ## VI. Conclusion
+Conclusion is here
