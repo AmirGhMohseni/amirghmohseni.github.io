@@ -14,7 +14,7 @@ permalink: /blog/uniswap-market-sentiment/
 ## I. Introduction
 In the ever-shifting realm of cryptographic currencies and the intricacies of decentralized finance (DeFi), Uniswap emerges as a formidable force orchestrating the ballet of trading, liquidity provision, and the intricate machinations that sustain the ecosystem's very essence. One is compelled to ponder: how does Uniswap gracefully pirouette through the ebullient expanse of bullish market fervor and somberly waltz amidst the bearish undertones? In this labyrinthine exposition, we embark on a cerebral odyssey, dissecting the idiosyncrasies of Uniswap's liquidity pools during epochs of exuberance and despondency, unearthing the Herculean challenges that stand as towering monoliths and the labyrinthine strategies that thread the needle through the capricious tapestry of market volatility.
 
-## II. Uniswap_Pools
+## II. Uniswap Pools
 ### A. Unraveling Uniswap in the Bosom of Bullish Exuberance
 
 In the kaleidoscopic tapestry of bullish epochs, where the cadence of rising prices orchestrates a symphony of optimistic market sentiment, Uniswap liquidity pools ascend as veritable pillars, staunchly buttressing the deluge of heightened trading fervor. A pulsating dance unfolds, as the market, bathed in the effulgence of positivity, witnesses Uniswap's decentralized sanctuaries becoming the nexus of voracious trading pursuits. The demand for liquidity, akin to a ravenous tide, surges forth, and the decentralized fabric of Uniswap unfurls, providing an effervescent conduit to an expansive spectrum of trading pairs. A heterogeneous cohort of liquidity providers, lured by the siren call of incentives, gravitates toward these pools, their assets woven into the intricate lattice, weaving an elaborate tapestry of financial fecundity. Fees, akin to nectar, flow into the coffers of these contributors, fostering an environment where liquidity luxuriantly abounds. In this veritable oasis, traders navigate the labyrinth of transactions with an alacrity nurtured by abundant liquidity, orchestrating trades with a virtuosic finesse that begets an overall euphoric trading odyssey.
@@ -25,9 +25,21 @@ Contrarily, within the shadowy recesses of bearish epochs, where the symphony is
 
 Yet, in this chiaroscuro of financial uncertainty, the automated market-making machinery of Uniswap emerges as a luminescent beacon. Algorithmic acrobatics, perpetually recalibrating token valuations in response to the ebb and flow of supply and demand, serve as a guardian, ensuring assets persistently frolic within the realm of tradability. The permissionless ethos of Uniswap unfurls its wings, facilitating the continual infusion of novel trading pairs into the fold. A magnetic allure beckons liquidity providers, visionaries in search of opportunities amidst undervalued assets or tokens harboring latent potential, becoming architects of a liquidity resurgence in defiance of bearish shadows.
 
-<iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350" />
+Behold the intricate tapestry unfurling below, a visual sonnet portraying the esoteric dance of Liquidity Providers (LPs) within the Uniswap ecosystem across the vast expanse of blockchains over temporal epochs.
 
 <iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="350" />
+
+The chart, an ever-evolving palimpsest meticulously updated on a weekly cadence, intricately maps the ebb and flow of LP creations. A symphony of statistical nuances, a temporal ballet where the most dominant protagonist is none other than the Ethereum network. Witness the undulating crescendo of LPs birthed into existence, their genesis intertwined with the very fabric of time.
+
+The Polygan network, an audacious entrant into this cryptographic amphitheater, commands attention, usurping a formidable slice of the LP pie. Yet, amidst the numerical tussle, the Ethereum network stands as the indomitable sovereign, a colossus of popularity towering over its blockchain compatriots.
+
+The diagram morphs into a tableau of delineated percentages, a cosmic ballet where each network, be it a recent interloper or an established denizen, claims its share of the coveted LP realm. Ethereum, with its regal resilience, maintains its reign at the apical zenith, orchestrating an unparalleled symphony of LP ascendancy.
+
+In the grand narrative of LP proliferation, each network pens its own chapter, etching its numerical legacy onto the palimpsest of Uniswap history. The Ethereum network, an enduring protagonist, not only retains its prominence but ascends to the pinnacle, a testament to its unwavering allure amidst the ceaseless flux of blockchain dynamics.
+
+<iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350" />
+
+
 
 
 ## III. BTC_BUY_SELL
