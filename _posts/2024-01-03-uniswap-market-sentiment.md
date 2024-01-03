@@ -31,7 +31,7 @@ Yet, in this chiaroscuro of financial uncertainty, the automated market-making m
 
 Behold the intricate tapestry unfurling below, a visual sonnet portraying the esoteric dance of Liquidity Providers (LPs) within the Uniswap ecosystem across the vast expanse of blockchains over temporal epochs.
 
-<iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="350" />
+<iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="350"></iframe>
 
 The chart unfolds as an ever-evolving manuscript, meticulously updated weekly, intricately capturing the rhythmic dance of LP creations. Ethereum emerges as the central protagonist in this statistical ballet, witnessing a crescendo of LPs birthing into existence, their genesis interwoven with the fabric of time. The audacious Polygan network asserts its presence, claiming a substantial portion of the LP landscape, yet Ethereum stands as an indomitable sovereign, towering over its blockchain counterparts.
 
@@ -41,14 +41,14 @@ The diagram transforms into a cosmic ballet of percentages, each network—wheth
 
 Embark on a mystifying journey through Ethereum's price evolution from January 2021 to July 2022, witnessing the fluctuating dance of liquidity pool creation, ranging from 160 to a staggering 1894 per week. A symphony of bullish enthusiasm echoes, inviting investors into a diverse array of opportunities. However, July 2022 introduces a clandestine metamorphosis, a paradoxical surge in Uniswap LP creation amidst a market in retreat. The zenith occurs in the week of 05-15-2023, where LPs reach an unprecedented ATH of 5392, defying market pessimism. A cryptic subplot unfolds with Bitcoin's ascent mirroring Ethereum, orchestrating a subtle reduction in LPs, impacting the fabric of liquidity creation. December 2023's pages hold the continuation of this esoteric narrative, challenging norms and perplexing market seekers.
 
-<iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350" />
+<iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350"></iframe>
 
 ## III. Bitcoin buying/selling power in Uniswap and its dependence on Volume
 In this review, we calculated the volume of sales and purchase volume of Bitcoin in Uniswap and calculated the power of buying and selling on a monthly basis with this method.
 In the month when the number is negative, it means that the selling power of Bitcoin is more than buying, and in the month when the number is positive, it means that the buying power of Bitcoin is more than selling.
 In the last few months, we have seen an increase in the purchasing power of Bitcoin on Uniswap. We have calculated the buying/selling power cumulatively (the line that can be seen in the graph) and we have seen an increase in the purchasing power of Bitcoin since the 6th month of 2023.
 
-<iframe src="https://dune.com/embeds/3321048/5562148" width="100%" height="350" />
+<iframe src="https://dune.com/embeds/3321048/5562148" width="100%" height="350"></iframe>
 
 
 ## IV. The Balance of Power (BOP)
@@ -71,7 +71,7 @@ It shows the decrease in the volume of trades in Uniswap, which is a bearish sig
 
 (Fore more information: https://support.stockcharts.com/doku.php?id=scans:indicators#balance_of_power_bop)
 
-<iframe src="https://dune.com/embeds/3321134/5562213" width="100%" height="350" />
+<iframe src="https://dune.com/embeds/3321134/5562213" width="100%" height="350"></iframe>
 
 ## V. OBV
 On-Balance Volume (OBV) measures buying and selling pressure in the market. The OBV is calculated by adding the volume of an asset to the OBV when the price of the asset increases and subtracting the volume when the price of the asset decreases.
@@ -84,7 +84,7 @@ The On-Balance Volume (OBV) theory centers on differentiating institutional inve
 
 In the chart below, by calculating the weekly swap volume, MACD, Bitcoin Closing Price, and the signal line and observing the past history, it can be concluded that since the 11th of 2023, when the MACD line has gone below the signal line, the trade volume has increased. We are in Uniswap, which has coincided with the increase in the price of Bitcoin in the middle of the 10th month of 2023.
 
-<iframe src="https://dune.com/embeds/3320340/5560715" width="100%" height="350" />
+<iframe src="https://dune.com/embeds/3320340/5560715" width="100%" height="350"></iframe>
 
 **Embarking on the Uniswap Liquidity Pool Odyssey Amid Bearish Turbulence**
 
