@@ -59,11 +59,21 @@ In this cryptic equation, the variables \( Close \), \( Open \), \( High \), and
 
 Behold the resultant indicator, a spectral entity oscillating within the paradoxical bounds of -1 to +1. A positive manifestation in this cryptic realm signifies a security concluding above its inaugural state. The value's magnitude serves as an augury, indicating the profundity of the positive metamorphosis in price. A zenith of +1, a rarefied attainment, would signify a security unfurling its cryptic wings at the nadir and majestically closing at the zenith for each epoch enshrouded within the moving average's contemplative gaze. The BOP, a beacon in the bewildering expanse of financial analysis, unveils the intricate dance between bullish and bearish forces, inviting the adept to decipher its mystifying revelations.
 
+**1. Ascending zero line crossover**
+It indicates the rise of the volume of trades in Uniswap that the power characteristic crosses zero, which gives a signal. This scan is just a starting point. Further refinement and analysis is required.
+
+**2. Crossing the descending zero line**
+It shows the decrease in the volume of trades in Uniswap, which is a bearish sign. This scan is just a starting point. Further refinement and analysis is required.
+
+(Fore more information: https://support.stockcharts.com/doku.php?id=scans:indicators#balance_of_power_bop)
+
 <iframe src="https://dune.com/embeds/3321134/5562213" width="100%" height="350" />
 
-
 ## V. OBV
-OBV section
+On-Balance Volume (OBV) measures buying and selling pressure in the market. The OBV is calculated by adding the volume of an asset to the OBV when the price of the asset increases and subtracting the volume when the price of the asset decreases.
+**Formula for On-Balance Volume (OBV)**
+<img src="https://github.com/AmirGhMohseni/amirghmohseni.github.io/blob/master/assets/img/posts/obv-formula.jpg" />
+
 <iframe src="https://dune.com/embeds/3320340/5560715" width="100%" height="350" />
 
 
