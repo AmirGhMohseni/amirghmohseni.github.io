@@ -57,7 +57,7 @@ BOP is sometimes referred to as Balance of Market Power (BMP).
 
 Embark upon the intricate voyage of comprehending Livshin's intricate methodology for the Balance of Power (BOP) indicator calculation. The original algorithm, a labyrinth of sophistication, unfolds into a more succinct formula:
 
-\[ BOP = \frac{(Close - Open)}{(High - Low)} \]
+BOP = (Close - Open) / (High - Low)
 
 In this cryptic equation, the variables \( Close \), \( Open \), \( High \), and \( Low \) dance together, portraying the daily ebb and flow of a security. The raw oscillations stemming from these values, while rich in data, evoke a sense of tumultuous disarray, prompting the necessity for smoothing. Livshin, the cryptic maestro, prescribes a remedy — a 14-period Simple Moving Average (SMA). However, the practitioner of this arcane art reserves the right to manipulate the number of periods, tailoring it to the peculiar temporality under the scrutiny of the chart.
 
@@ -77,6 +77,7 @@ It shows the decrease in the volume of trades in Uniswap, which is a bearish sig
 On-Balance Volume (OBV) measures buying and selling pressure in the market. The OBV is calculated by adding the volume of an asset to the OBV when the price of the asset increases and subtracting the volume when the price of the asset decreases.
 
 **Formula for On-Balance Volume (OBV)**
+
 <img src="/assets/img/posts/obv-formula.jpg" />
 
 ### What Does OBV Tell You?
