@@ -25,6 +25,7 @@ Contrarily, within the shadowy recesses of bearish epochs, where the symphony is
 
 Yet, in this chiaroscuro of financial uncertainty, the automated market-making machinery of Uniswap emerges as a luminescent beacon. Algorithmic acrobatics, perpetually recalibrating token valuations in response to the ebb and flow of supply and demand, serve as a guardian, ensuring assets persistently frolic within the realm of tradability. The permissionless ethos of Uniswap unfurls its wings, facilitating the continual infusion of novel trading pairs into the fold. A magnetic allure beckons liquidity providers, visionaries in search of opportunities amidst undervalued assets or tokens harboring latent potential, becoming architects of a liquidity resurgence in defiance of bearish shadows.
 
+### C. Percentage distribution of blockchains in lps created in Uniswap
 Behold the intricate tapestry unfurling below, a visual sonnet portraying the esoteric dance of Liquidity Providers (LPs) within the Uniswap ecosystem across the vast expanse of blockchains over temporal epochs.
 
 <iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="350" />
@@ -37,10 +38,16 @@ The diagram morphs into a tableau of delineated percentages, a cosmic ballet whe
 
 In the grand narrative of LP proliferation, each network pens its own chapter, etching its numerical legacy onto the palimpsest of Uniswap history. The Ethereum network, an enduring protagonist, not only retains its prominence but ascends to the pinnacle, a testament to its unwavering allure amidst the ceaseless flux of blockchain dynamics.
 
+### D. ETH price with number of LPs over time on Uniswap
+Embark upon a temporal odyssey, traversing the enigmatic realms of Ethereum price dynamics, as we navigate the cryptic landscape from January 2021 to the halcyon days of July 2022. Within this epoch, the conditions enveloping ETH prices exuded a benevolent aura, propelling the creation of liquidity pools (LPs) into a fluctuating dance, oscillating between the esoteric realms of 160 and a staggering 1894 per week. A symphony of bullish fervor echoed through the corridors of the crypto cosmos, beckoning investors to partake in the kaleidoscopic mélange of trading and investment opportunities across diverse sectors.
+
+Yet, as the cryptic clock hands marched into the month of July 2022, a clandestine metamorphosis gripped the market's essence, veiling it in a shroud of decline and stagnation. A paradox unfurled — an anomalous surge in the creation of Uniswap LPs amidst the somber whispers of a market in retreat.
+
+The chronicle crescendos to a zenith in the fateful week of 05-15-2023, where the number of LPs, like a phoenix rising from the ashes, soared to an unprecedented ATH of 5392. An enigma within an enigma, as if the very decline in market fortunes cast a spell, birthing a surge in liquidity creation that defied the gravitational pull of market pessimism.
+
+A cryptic subplot unfolds with the recent ascent in Bitcoin's price, an event mirroring the ascent of ETH. This ethereal correlation, akin to a cosmic ballet, orchestrates a subtle reduction in the number of LPs, an intricate dance where the movements of Bitcoin and Ethereum intertwine, impacting the very fabric of liquidity creation. A tableau unfolds, inviting scrutiny into the pages of December 2023, where the intricate web of price dynamics continues to script its esoteric narrative, challenging preconceived notions and confounding the seekers of market augury.
+
 <iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350" />
-
-
-
 
 ## III. BTC_BUY_SELL
 BTC Buy & Sell
