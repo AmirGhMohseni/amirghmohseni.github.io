@@ -13,20 +13,20 @@ permalink: /blog/uniswap-market-sentiment/
 ---
 ## 1
 
-<iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="300" />
+<iframe src="https://dune.com/embeds/3322721/5565375" width="100%" height="350" />
 
 ## 2
 
-<iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="300" />
+<iframe src="https://dune.com/embeds/3322721/5565371" width="100%" height="350" />
 
 ## 3
 
-<iframe src="https://dune.com/embeds/3321048/5562148" width="100%" height="300" />
+<iframe src="https://dune.com/embeds/3321048/5562148" width="100%" height="350" />
 
 ## 4
 
-<iframe src="https://dune.com/embeds/3321134/5562213" width="100%" height="300" />
+<iframe src="https://dune.com/embeds/3321134/5562213" width="100%" height="350" />
 
 ## 5
 
-<iframe src="https://dune.com/embeds/3320340/5560715" width="100%" height="300" />
+<iframe src="https://dune.com/embeds/3320340/5560715" width="100%" height="350" />
